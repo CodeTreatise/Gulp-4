@@ -1,0 +1,28 @@
+{
+  "name": "gulp-js",
+  "version": "1.0.0",
+  "description": "gulp 4 with sass ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeTreatise/Gulp-4.git"
+  },
+  "keywords": [
+    "gulp",
+    "4",
+    "sass",
+    "js"
+  ],
+  "author": "Shivprasad Murgude",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeTreatise/Gulp-4/issues"
+  },
+  "homepage": "https://github.com/CodeTreatise/Gulp-4#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
